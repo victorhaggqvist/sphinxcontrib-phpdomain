@@ -6,6 +6,7 @@
     The PHP domain. Based off of the rubydomain by SHIBUKAWA Yoshiki
 
     :copyright: Copyright 2011 by Mark Story
+    :copyright: Copyright 2015 by Victor Häggqvist
     :license: BSD, see LICENSE for details.
 """
 
